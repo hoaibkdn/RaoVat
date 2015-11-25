@@ -1,0 +1,68 @@
+ul#tabnav {
+    list-style-type: none;
+    /* margin: 0; */
+    padding-left: 0;
+}
+
+li.tab_all, li.tab_company, li.tab_private {
+    background-color: rgba(99,86,53,0.15);
+    background-color: #e7e6da\9;
+    /* color: #000; */
+    height: 30px;
+    padding: 5px 10px 0;
+    float: left;
+    border-radius: 4px 4px 0 0;
+    margin-right: 8px;
+}
+
+.tab_active {
+    border-bottom: solid 1px #fff;
+    color: #555!important;
+    background: #FFF!important;
+    border-color: #949280 #949280 transparent;
+    border-style: solid;
+    border-width: 1px;
+    margin-bottom: 1px;
+    margin-bottom: -2px\9;
+}
+
+.listing_tabs{
+	border-bottom: 1px solid #c2b2b5;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.border{
+	background-color: rgba(99,86,53,0.15);
+	margin-top: 15px;
+	border: 1;
+    border-top: 1px solid black;
+}
+
+#tabarea_left {
+    padding: 0;
+    float: left;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+    border: 1;
+    border-color: #c2b2b5;
+}
+
+.panel-danger {
+    border-color: #ebccd1;
+}
+.panel {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+
+.penal-body{
+	padding: 15px;
+}

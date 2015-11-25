@@ -1,0 +1,25 @@
+@CHARSET "utf-8";
+
+
+.sologn-insert{
+	font-size: 14px;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+
+.log-insert{
+    padding-bottom: 5px;
+    padding-top: 5px;
+    color: white;
+}
+
+.img-insert{
+   padding-top: 10px;
+}
+
+.log-title{
+	padding-bottom: 5px;
+    padding-top: 5px;
+    color: black;
+}

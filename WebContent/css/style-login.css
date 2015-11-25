@@ -1,0 +1,37 @@
+@CHARSET "utf-8";
+
+.home-login-area .box-content
+{
+	width: 350px;
+    text-align: left;
+    left: 50%;
+    margin-left: -176px;
+    position: fixed;
+    top: 120px;
+    _position: absolute;
+    display: none;
+    z-index: 9999;
+}
+
+.title
+{
+	border: 0.5px solid #fff;
+    border-radius: 5px 5px 0 0;
+    -moz-border-radius: 5px 5px 0 0;
+    -webkit-border-radius: 5px 5px 0 0;
+    background: #666;
+    color: #FFFFFF;
+    font-size: 1.2em;
+    margin: 0;
+    padding: 8px 10px;
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.step
+{
+	background: #FFF8C1;
+    border: 1px solid orange;
+    padding: 1px;
+}

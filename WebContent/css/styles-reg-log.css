@@ -1,0 +1,37 @@
+@CHARSET "utf-8";
+
+/*styles link đăng ký và đăng nhập*/
+.reg-log {
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 10px;
+	float: right;
+	color: white;
+}
+
+.reg-log a:HOVER {
+	color: orange;
+	text-decoration: none;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.dropdown-menu a: hower:HOVER {
+	background: black;
+}
+
+.control-log-in a
+{
+	font-size: 16px;
+	font-weight: bold;
+	margin-top:470px;
+	color: white;
+}
+
+.control-log-in 
+{
+	font-size: 16px;
+	font-weight: bold;
+	margin-top:470px;
+	color: white;
+}

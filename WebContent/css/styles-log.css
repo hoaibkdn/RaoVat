@@ -1,0 +1,39 @@
+@CHARSET "utf-8";
+
+body{
+	background: black;;
+}
+
+.log {
+	position: fixed;
+    z-index: 999999;
+    width: 200px;
+    border: 1px solid #FFF;
+    padding-bottom: 20px;
+}
+
+.log-title {
+	background: #481010;
+	border: 1px solid #FFF;
+    height: 63px;
+    line-height: 63px;
+    color: #FFF;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.log-text {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: white;
+}
+
+.log-button {
+	margin-top: 10px;
+	padding-left: 10px;
+}
+
+

@@ -1,0 +1,23 @@
+@media (min-width: 992px){
+	.container{
+		width: 940px;
+	}
+	#header .top-header ul {
+  		margin-right: 212px;
+	}
+	#header .top-header ul li {
+  		padding-right: 10px;
+	}
+}
+@media (max-width: 992px){
+	
+}
+@media (max-width: 768px){
+	
+}
+@media (max-width: 480px){
+	
+}
+@media (max-width: 420px){
+	
+}

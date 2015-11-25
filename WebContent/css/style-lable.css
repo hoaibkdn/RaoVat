@@ -1,0 +1,52 @@
+@CHARSET "utf-8";
+
+.control-label
+{
+	color: black;
+}
+
+.control-border
+{
+	padding-bottom: 30px;
+	border: 1px solid;
+	background-color:#FCF8E3; 
+	border-radius: 10px;
+	border-color: #FF986D;
+}
+.margin-box
+{
+	margin-left: 10px;
+}
+
+.margin-top
+{
+	margin-top: 10px;
+}
+.table-content
+{
+	text-align: center;
+	background-color: rgb(255, 226, 125);
+	border-radius: 4px;
+}
+.btn-radius
+{
+	border-radius: 60px;
+	background-color: red;
+	height: 30px;
+}
+.btn
+{
+	min-width: 25px;
+}
+.btn a
+{
+	color: white;
+  	font-size: 12px;
+  	text-transform: uppercase;
+}
+
+.size
+{
+	width: 30px;
+	height: 30px;
+}

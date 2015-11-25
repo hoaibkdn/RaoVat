@@ -1,0 +1,20 @@
+@CHARSET "utf-8";
+
+.img-post{
+	padding-right: 10px;
+}
+
+.link>a:HOVER{
+	text-decoration: none;
+	color: red;
+}
+
+.img-post a :HOVER{
+    width: 100px;
+    height: 130px;
+}
+
+.center{
+	background: url("../my-design/bgcenter.png");
+}
+

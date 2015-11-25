@@ -1,0 +1,13 @@
+@CHARSET "utf-8";
+
+.banner {
+	margin: auto;
+	text-align: center;
+	margin-top: -10px;
+}
+
+.img-banner {
+	width: 1000px;
+	margin: auto;
+	height: 150px;
+}
